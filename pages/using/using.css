@@ -1,0 +1,101 @@
+form#Formik-Form {
+  background-image: linear-gradient(45deg, #ff09f8, #00dccb);
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+form#Formik-Form {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 0 auto;
+}
+
+form#Formik-Form h1.Header {
+  color: #ffffff;
+  font-size: 50px;
+}
+
+form#Formik-Form > div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+form#Formik-Form > div label {
+  font-size: 18px;
+  font-weight: 400;
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+  margin: 25px 0 5px;
+  color: #f0eded;
+}
+
+form#Formik-Form > div input {
+  outline: 0;
+  background: rgba(255, 255, 255, 0.4);
+  width: 300px;
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: 2px solid transparent;
+}
+
+form#Formik-Form > div div.error-container {
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+  margin-top: 3px;
+  font-size: 15px;
+  margin-left: 3px;
+  color: #ca2727;
+}
+
+form#Formik-Form button {
+  width: 300px;
+  margin: 20px auto 3px;
+  background: #65ff65;
+  padding: 10px 25px;
+  border: 2px solid transparent;
+  border-radius: 10px;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+form#Formik-Form button :hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=using.css.map */
